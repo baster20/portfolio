@@ -55,6 +55,16 @@ define( 'SECURE_AUTH_SALT', 'RjOXd)Hs0I=im4#:P.r}zM-{HoW%;y^2hG%/z@d<F]Zw/Ojqr{v
 define( 'LOGGED_IN_SALT',   'Qx8o~8q7[D+4t7Bc%,SErn0n;:LlT<+{O5ld1|.Zcws+Y`KNW9%uz$<$Sf{>}[;(' );
 define( 'NONCE_SALT',       '&CaCC8Wa:>@@]2ej@R]j&`tuf^`*88<gTAt58xx,,m>G`Ud0z20qdGhEXCsxIb$#' );
 
+/**
+ * Handle SSL reverse proxy
+ */
+if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')
+    $_SERVER['HTTPS']='on';
+
+if (isset($_SERVER['HTTP_X_FORWARDED_HOST'])) {
+    $_SERVER['HTTP_HOST'] = $_SERVER['HTTP_X_FORWARDED_HOST'];
+}
+
 /**#@-*/
 
 /**
@@ -77,7 +87,7 @@ $table_prefix = 'wp_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', true );
 
 /* That's all, stop editing! Happy blogging. */
 
