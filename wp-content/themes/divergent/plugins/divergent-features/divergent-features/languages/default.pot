@@ -1,0 +1,560 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "10 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "11 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "12 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "13 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "14 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "15 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "2 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "3 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "4 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "5 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "6 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "7 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "8 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "9 Seconds"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Activate Autoplay"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Activate Google Map ( Find your Coordinates; mondeca.com/index.php/en/any-place-en )"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Add Another Video"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/plugins/font-awesome-field.php:232
+msgid "Add Icon"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Add new category"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Add new gallery"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Add new section"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "Add new testimonial"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/cpt/dv-gallery/gallery-grid-filter.php:19
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/cpt/dv-gallery/dv-widgets.php:60
+msgid "All Categories"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Autoplay duration:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Correct Link Format; http://www.codecanyon.net"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-widgets.php:157
+msgid "DV Flickr"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-widgets.php:157
+msgid "DV Iframe"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-widgets.php:157
+msgid "DV Latest Posts"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/dv-widgets.php:1
+msgid "DV Square Grid"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/dv-widgets.php:1
+msgid "DV Square Grid Gallery Widget."
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "DV-Galleries"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/divergent-widgets.php:238
+msgid "Display Thumbnail:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/plugins/divergent-social.php:1
+msgid "Divergent - Social Icons"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Edit gallery"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Edit section"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "Edit testimonial"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-widgets.php:157
+msgid "Flickr Feed Widget"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/divergent-widgets.php:153
+msgid "Flickr ID:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Gallery Info:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Gallery Settings"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Gallery Type:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Google Map (Optional)"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "ID"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/divergent-widgets.php:54
+msgid "Iframe Url:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Images"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+msgid "Images for Mobile Devices:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+msgid "Images:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-widgets.php:157
+msgid "Latest Posts List Widget"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Latitude"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Link"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Link:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Longitude"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/divergent-widgets.php:149
+msgid "Maximum Item Number:"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/cpt/dv-gallery/dv-widgets.php:53
+msgid "Maximum number of galleries:"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/divergent-widgets.php:234
+msgid "Maximum number of posts:"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/homepage-nav.php:18
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: divergent-features/plugins/font-awesome-field.php:235
+msgid "Menu Icon"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "New category"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "New gallery"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "New section"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "New testimonial"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "No gallery found"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "No gallery found in trash"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "No section found"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "No section found in trash"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "No testimonial found"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "No testimonial found in trash"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Only YouTube and Vimeo videos are supported."
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Open in a new window"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Parent galleries:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Parent sections:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "Parent testimonials:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Photo Gallery"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Remove Video"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-widgets.php:157
+msgid "Responsive Iframe Widget"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Search galleries"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Search sections"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "Search testimonials"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Section"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "Sections"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/cpt/dv-gallery/dv-widgets.php:58
+msgid "Select Category:"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/plugins/font-awesome-field.php:143
+msgid "Select Font Awesome Icon"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Select Images:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Show all categories"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+msgid "Slider Images"
+msgstr ""
+
+#. Text in function
+#: divergent-features/plugins/divergent-social.php:1
+msgid "Social Icons"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "Testimonial"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "Testimonial box"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "Testimonials"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "The time (in seconds) between each auto transition"
+msgstr ""
+
+#. Text in echo
+#: divergent-features/divergent-widgets.php:230
+#: divergent-features/divergent-widgets.php:145
+#: divergent-features/cpt/dv-gallery/dv-widgets.php:49
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "To activate autoplay, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Video Gallery"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+msgid "Video ID"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Video Title:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Video Url:"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Video {#}"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "Videos"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "View gallery"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/sections_cpt.php:1
+msgid "View section"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/testimonials_cpt.php:1
+msgid "View testimonial"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+msgid "You Tube Video"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "You can make a multiselection with CTRL + click"
+msgstr ""
+
+#. Text in function
+#: divergent-features/divergent-features.php:95
+msgid "YouTube have the video id directly in the url. For example; keDneypw3HY"
+msgstr ""
+
+#. Text in function
+#: divergent-features/cpt/dv-gallery/gallery_cpt.php:1
+msgid "gallery"
+msgstr ""

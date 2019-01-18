@@ -1,0 +1,28 @@
+/* ================= DIVERGENT ================== */
+.thumbhover {
+    display:block;
+}
+.thumbhover img {
+    width: 100px;
+    height: auto;
+    opacity: 1;
+    -webkit-transition: opacity 0.2s ease-in-out;
+    -moz-transition: opacity 0.2s ease-in-out;
+    -o-transition: opacity 0.2s ease-in-out;
+    -ms-transition: opacity 0.2s ease-in-out;
+    vertical-align:bottom;
+}
+.thumbhover img:hover {
+    opacity: 0.7;
+}
+.thumbborder{
+    border: 1px solid #c7c7c7;
+}
+#setting-error-divergent {
+    float:left;
+}
+.cmb2-wrap input[type="text"],
+.cmb2-wrap input[type="number"],
+.cmb2-wrap textarea {
+    width: 100% !important;
+}

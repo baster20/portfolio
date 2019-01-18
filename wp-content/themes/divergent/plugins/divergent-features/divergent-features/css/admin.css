@@ -1,0 +1,27 @@
+.dvthumb {
+    width: 80px !important;
+    height: auto !important;
+}
+#dvgalleries_thumb {
+    width: 80px !important;
+}
+#divergent_galleryimg {
+    display: none;
+}
+#divergent_videourl {
+    display: none;
+}
+#divergent-social-wrapper {
+    margin:40px 20px 0px 20px;
+    padding:40px;
+    display:block;
+    max-width:1000px;
+    background:#fff;
+}
+.divergent-social-title span {
+    margin-bottom: 30px;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1;
+    display: inline-block;
+}

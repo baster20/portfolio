@@ -1,0 +1,305 @@
+/*
+Theme Name: Divergent
+Theme URI: http://themeforest.net/user/egemenerd/portfolio?ref=egemenerd
+Description: Divergent - Personal Vcard Resume WordPress Theme
+Author: Egemenerd
+Author URI: http://themeforest.net/user/egemenerd?ref=egemenerd
+Version: 1.0
+License: http://themeforest.net/licenses?ref=egemenerd
+License URI: http://themeforest.net/licenses?ref=egemenerd
+Tags: black,white,red,two-columns,left-sidebar,responsive-layout,custom-menu,featured-images
+*/
+
+/* ---------------------- 
+Stylesheet Guide
+-------------------------
+
+FONTS
+GENERAL STYLES
+FORMS
+LOADING ANIMATION
+PAGE STRUCTURE
+MAIN MENU
+SIDEBAR
+SIDEBAR DROPDOWN MENU
+SUBMENU
+TOOLTIPS
+RESPONSIVE IFRAME
+BLOG
+COMMENTS
+FOOTER
+TRANSPARENT COLORS
+WORDPRESS
+MEDIA
+
+*/
+
+/* ================= GENERAL STYLES ================== */
+
+h1.border:after,
+h2.border:after,
+h3.border:after,
+h4.border:after,
+h5.border:after,
+h6.border:after {
+	left: inherit;
+    right:0px
+}
+dd {
+  margin: 0 40px 0 0;
+}
+menu,
+ol,
+ul {
+  padding: 0 40px 0 0;
+}
+
+legend {
+  *margin-left: 0;
+  *margin-right: -7px; /* 3 */
+}
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+caption,
+th,
+td {
+	text-align: right;
+}
+.wpcf7-form {
+    text-align:right;
+}
+.label {
+    border-left: none !important;
+}
+blockquote:before {
+	right: -10px;
+    left:inherit;
+}
+blockquote .cite {
+    text-align: left;
+}
+/* ================= HOMEPAGE ================== */
+#home-title h1 {
+    text-align: left;
+}
+/* ================= BLOG ================== */
+.page-date {
+    padding-left:0px;
+    padding-right: 25px;
+}
+.page-date:before {
+    right: 0px;
+    left:inherit;
+}
+.blogcontainer .postdate:before {
+    right: 60px;
+    left:inherit;
+}
+.blogcontainer .postdate {
+    padding: 20px 85px 20px 60px;
+}
+.blogpager .previous {
+    float:right;
+}
+.blogpager .next {
+    float:left;
+}
+/* ================= COMMENTS ================== */
+.comments_content:before {
+    left:inherit;
+    right: 30px;
+}
+.comments_block .children li {
+    padding-right: 50px;
+    padding-left:0px;
+}
+.comments_block .children li:before {
+    right: 15px;
+    left:inherit;
+    -webkit-transform: rotate(30deg);
+    -moz-transform: rotate(30deg);
+    -o-transform: rotate(30deg);
+    -ms-transform: rotate(30deg);
+    transform: rotate(30deg);
+}
+/* ================= FOOTER ================== */
+.cv-credits {
+    text-align:left;
+}
+/* ================= TRANSPARENT COLORS ================== */
+.cv-box.cv-light,.blogmetadata {
+    border-left: none;
+    border-right: 5px solid rgba(0,0,0,0.05);
+}
+.cv-box.cv-dark {
+    border-left: none;
+    border-right: 5px solid rgba(255,255,255,0.1);
+}
+.cv-box.cv-red {
+    border-left: none;
+    border-right: 5px solid rgba(0,0,0,0.05);
+}
+.widget_nav_menu .menu-main-menu-container ul ul {
+    border-left: none;
+    border-right: 3px solid rgba(255, 255, 255, 0.05);
+}
+.cv-submenu ul ul {
+    border-left: none;
+    border-right: 3px solid rgba(255, 255, 255, 0.05);
+}
+/* ================= DROPDOWN MENUS ================== */
+.cv-submenu ul > li > a.cvdropdown, .cv-submenu ul > li > a.cvdropdown2,.widget_nav_menu .menu-main-menu-container ul > li > a.cvdropdown,.widget_nav_menu .menu-main-menu-container ul > li > a.cvdropdown2 {
+    background-position: 0% 65%;
+    padding-right: 0px;
+    padding-left:50px;
+}
+.cv-submenu ul ul,.widget_nav_menu .menu-main-menu-container ul ul {
+    border-left: none;
+    padding: 0px 15px 0px 0px;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+/* ================= TABS ================== */
+.resp-tabs-list li {
+    float: right;
+}
+.resp-vtabs ul.resp-tabs-list {
+    float: right;
+}
+.resp-vtabs .resp-tabs-container {
+    float: right;
+}
+.resp-arrow {
+    float: left;
+}
+.resp-vtabs .resp-tabs-list li:hover,.resp-vtabs .resp-tabs-list li.resp-tab-active {
+    border-left: none !important;
+}
+/* ================= FORMS ================== */
+.searchbox input[type="text"].searchtext {
+    float: right;
+}
+.searchbox .button {
+    float: left;
+    margin-right: -1px;
+    margin-left: 0px;
+}
+div.wpcf7-mail-sent-ok,div.wpcf7-mail-sent-ng,div.wpcf7-spam-blocked,div.wpcf7-validation-errors {
+	border-width: 0px 3px 0px 0px !important;
+}
+input[type="submit"] {
+    float:right;
+}
+/* ================= PORTFOLIO ================== */
+.cvfilters li {
+    float: right;
+}
+/* ================= WIDGETS ================== */
+.cv-sidebar-title:before {
+    left: 40px;
+    right:inherit;
+}
+.widget_recent_entries ul li,
+.widget_categories ul li,
+.widget_recent_comments ul li,
+.widget_pages ul li,
+.widget_meta ul li,
+.widget_archive ul li,
+.widget_rss ul li,
+.widget_recent-posts ul li,
+.recentcomments{
+    padding-right: 0px;
+}
+.tagcloud a {
+    float: right;
+    margin-left: 5px;
+    margin-right: 0px;
+}
+#wp-calendar caption {
+    text-align: left;
+}
+#wp-calendar thead th {
+    text-align: center;
+}
+#wp-calendar tfoot #next {
+    text-align: left;
+}
+.cv-sidebar-posts-img {
+    left:inherit;
+    right: 0px;
+}
+.cv-sidebar-posts li{
+    padding: 0px 90px 20px 0px;
+}
+/* ================= FLICKR  ================== */
+.cv-flickr-box li {
+    float:right;
+    padding:0px 0px 5px 5px;
+    margin-right:0px;
+}
+.cv-flickr-box li:last-child {
+    margin-left:0px;
+}
+/* ================= BW TABLE ================== */
+.cv-table-left {
+    float: right;
+}
+.cv-table-right {
+    float: left;
+}
+.cv-table .cv-table-title a{
+    padding-right: 24px;
+    padding-left:0px;
+	background-position: right center;
+}
+/* ================= ACCORDION ================== */
+.accordion-header {
+	padding-right:0px;
+}
+.accordion-header:after {
+    left: 0px;
+    right:inherit;
+}
+.cv-icon{
+    margin-right:0px;
+    margin-left: 10px;
+}
+/* ================= ICON CONTAINERS ================== */
+.cv-icon-block {
+    float: right;
+}
+/* ================= SKILLS ================== */
+.skillbar-title {
+	right:0;
+	left:inherit;
+}
+.skill-bar-percent {
+	left:15px;
+	right:inherit;
+}
+/* ================= TESTIMONIALS ================== */
+.quovolve-nav span {
+    float: left;
+}
+.nav-numbers {
+    float: right;
+    padding:0px;
+}
+/* ================= MEDIA ================== */
+@media only screen and (max-width: 640px) {
+    .cv-table-right,.cv-table-left {
+        float: right;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .cv-sidebar-posts li{
+        padding-right: 0px;
+    }
+    .blogpager .previous,
+    .blogpager .next {
+        float: right;
+    }
+}

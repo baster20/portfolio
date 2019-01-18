@@ -1,0 +1,18 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">dvsections</custom-type>
+        <custom-type translate="1">dvtestimonials</custom-type>
+        <custom-type translate="1">dvgalleries</custom-type>
+    </custom-types> 
+    <taxonomies>
+        <taxonomy translate="1">dvgallerytaxonomy</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="divergent_name" />
+        <key name="divergent_surname" />
+        <key name="divergent_additional" />
+        <key name="divergent_hometitle" />
+        <key name="divergent_homeslug" />
+        <key name="divergent_footermessage" />
+    </admin-texts>  
+</wpml-config>

@@ -1,0 +1,1018 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: divergent/comments.php:34
+msgid "%1$d %2$s for \"%3$s\""
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:405
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: divergent/comments.php:19
+msgid "&#8249; Older comments"
+msgstr ""
+
+#. Text in function
+#: divergent/archive.php:42
+#: divergent/index.php:49
+#: divergent/search.php:43
+msgid "&#8249; Older posts"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:405
+msgid "(Edit)"
+msgstr ""
+
+#. Text in echo
+#: divergent/404.php:3
+msgid "404 - Page Not Found!"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Activate CSS Loader"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Activate Counter"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Activate Custom Ecwid Skin"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Activate Download Link"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Activate Fullscreen"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Activate Thumbnails"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Activate Zoom"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Additional Info"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Additional Information"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Align"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Arrows"
+msgstr ""
+
+#. Text in echo
+#: divergent/single.php:25
+msgid "Author: "
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Autoplay"
+msgstr ""
+
+#. Text in function
+#: divergent/index.php:18
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Blog Image"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Blog Thumbnail Height"
+msgstr ""
+
+#. Text in echo
+#: divergent/single.php:25
+msgid "Category: "
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:284
+#: divergent/includes/functions.php:286
+msgid "Choose Image"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Colors"
+msgstr ""
+
+#. Text in echo
+#: divergent/comments.php:6
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Default Image"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Delay for hiding gallery controls in second"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1208
+msgid "Demo XML"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Disable Go to Top Tooltips"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Disable Menu Tooltips"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Disable Social Icon Tooltips"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Disable Tooltips on Mobile Devices"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Dots"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Ecwid Loading Image (64x64 px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Ecwid Store"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Featured Image"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:269
+msgid "Featured image for mobile devices"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Fifth Color"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "First Color"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "First Font-Family (Titles)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "First Google Web Fonts Code (Titles)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:59
+msgid "First of all, please read the"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Following image will be displayed on standard WordPress blog,archive,search,404 etc. pages."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Font Size (Mobile Devices)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Font size of your additional information (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Font size of your additional information for mobile devices (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Font size of your name and surname (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Font size of your name and surname for mobile devices (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Fonts"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Footer Text"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Footer and Image caption background color."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "For more information about Ecwid, please read the help documentation"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Fourth Color"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Galleries"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Go To Top Tooltip Animation"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Google Map"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Google Map API KEY (Required)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Google Map Grayscale"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Google Map Marker (64x64 px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Google Map Zoom"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Google Map Zoom Value"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Google Web Fonts Code"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Google Web Fonts Code (For more information please look at the HELP DOCUMENTION)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H1 (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H1 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H2 (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H2 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H3 (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H3 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H4 (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H4 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H5 (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H5 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H6 (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "H6 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:59
+msgid "HELP DOCUMENTATION"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Hide Bars Delay"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Hide Footer"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Hide Sidebar"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Hide Social Icons"
+msgstr ""
+
+#. Text in echo
+#: divergent/404.php:5
+#: divergent/search.php:54
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Home Icon"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Home Sidebar"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Home Slug"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Home Title"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Homepage"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Homepage Sidebar Widget Field"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "If you don't add a featured image to a post/page, following image will be displayed. "
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "If you dont need to add a copyright message to your website, leave this field blank."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Info Font Size"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Left Side Image"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Loading image (64x64 px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Loading image (80x80 px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Logo (Optional)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Loop"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Loops the movie once ended"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Main Sidebar Widget Field"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Maximum width of the logo (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/header-large.php:55
+#: divergent/header-slider.php:55
+#: divergent/header.php:55
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Menu Icon Tooltip Animation"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Menu Tooltip Animation"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Menu info box and blog transparent background color."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Mute"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Mute the audio"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Name/Surname Font Size"
+msgstr ""
+
+#. Text in function
+#: divergent/comments.php:20
+msgid "Newer comments &#8250;"
+msgstr ""
+
+#. Text in function
+#: divergent/archive.php:45
+#: divergent/index.php:52
+#: divergent/search.php:46
+msgid "Newer posts &#8250;"
+msgstr ""
+
+#. Text in function
+#: divergent/search.php:52
+msgid "No results found."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Outer Spacing (Grid)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Page with slider"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Page with video (You Tube)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Paragraphs and other texts font size (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/comments.php:28
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Play the video once ready"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Play-Pause"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Quality"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Quality od the video"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Remove Meta Data"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Remove Social Sharing Buttons"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:273
+msgid "Remove featured image"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Right Side Image"
+msgstr ""
+
+#. Text in function
+#: divergent/search.php:5
+msgid "Search results for: %s"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Second Color"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Second Featured Image"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Second Font-Family"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Second Google Web Fonts Code"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Second Loading image (64x64 px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Second Transparent Color"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Select a FontAwesome icon"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Set the seconds the video should start at"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Set the seconds the video should stop at. If 0 is ignored"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Show Controls"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Show YT Logo"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Show or hide the You Tube logo and the link to the original video URL"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Show or hide the player controls"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Sidebar Icon"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Sidebar Menu"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Sixth Color"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Slider Height (Mobile)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Slider height on mobile mode (px)"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Social Icon Animation"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Social Icon Tooltip Animation"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Start at"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Stop at"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Surname"
+msgstr ""
+
+#. Text in echo
+#: divergent/single.php:27
+msgid "Tags: "
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "The distance between galleries (px)."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "The distance between the title and the date"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:59
+#: divergent/includes/functions.php:1586
+msgid "Theme Settings"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1193
+msgid "Theme settings reset"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1188
+msgid "Theme settings saved"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "There are social sharing buttons at the bottom of the single post pages. To remove them, switch on."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Third Color"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Thumbnail Alignment"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Timer"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To activate built-in Ecwid skin, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable Google Map grayscale view, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable go to top button tooltips, switch on."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable icon menu tooltips, switch on."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable loading image and activate css loader, switch on."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable navigation arrows, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable navigation dots, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable play-pause buttons, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable sidebar, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable social icon tooltips, switch on."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable the tooltip plugin on mobile devices, switch on."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To disable timer, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To hide footer widget field, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To hide social icons, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To remove meta data (Author name, categories, tags) from single post pages, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To use Page - XL Template on single posts, check this box."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "To use the Google Map, you must get an API KEY from Google. For more information, please read the help documentation"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Tooltip text"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Tooltips"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Transparent Color"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:272
+msgid "Upload Image"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Width of the logo"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "XL Single Posts"
+msgstr ""
+
+#. Text in echo
+#: divergent/404.php:5
+#: divergent/search.php:54
+msgid "You can return"
+msgstr ""
+
+#. Text in echo
+#: divergent/homepage.php:11
+#: divergent/pagewithslider.php:11
+#: divergent/pagewithvideo.php:11
+msgid "You should upload/activate \"Divergent Features\" plugin to use this page template."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "You should use only latin characters."
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "Your Surname"
+msgstr ""
+
+#. Text in echo
+#: divergent/includes/share-template.php:14
+msgid "email"
+msgstr ""
+
+#. Text in echo
+#: divergent/includes/share-template.php:23
+msgid "facebook"
+msgstr ""
+
+#. Text in echo
+#: divergent/includes/share-template.php:40
+msgid "google+"
+msgstr ""
+
+#. Text in echo
+#: divergent/404.php:5
+#: divergent/search.php:54
+msgid "home"
+msgstr ""
+
+#. Text in echo
+#: divergent/includes/share-template.php:49
+msgid "linkedin"
+msgstr ""
+
+#. Text in echo
+#: divergent/404.php:5
+#: divergent/search.php:54
+msgid "or search for the page you were looking for;"
+msgstr ""
+
+#. Text in function
+#: divergent/includes/functions.php:1586
+msgid "p (px)"
+msgstr ""
+
+#. Text in echo
+#: divergent/includes/share-template.php:59
+msgid "pinterest"
+msgstr ""
+
+#. Text in echo
+#: divergent/includes/share-template.php:32
+msgid "twitter"
+msgstr ""
+
+#. Text in echo
+#: divergent/includes/share-template.php:68
+msgid "vk.com"
+msgstr ""
