@@ -16,7 +16,7 @@ define( 'WP_USE_THEMES', true );
 /**
  * Handle SSL reverse proxy
  */
-if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')
+if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')
     $_SERVER['HTTPS']='on';
 
 if (isset($_SERVER['HTTP_X_FORWARDED_HOST'])) {
