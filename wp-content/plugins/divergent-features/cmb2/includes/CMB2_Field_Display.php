@@ -6,9 +6,9 @@
  *
  * @category  WordPress_Plugin
  * @package   CMB2
- * @author    WebDevStudios
+ * @author    CMB2 team
  * @license   GPL-2.0+
- * @link      http://webdevstudios.com
+ * @link      https://cmb2.io
  */
 class CMB2_Field_Display {
 
@@ -32,7 +32,7 @@ class CMB2_Field_Display {
 	 * Get the corresponding display class for the field type.
 	 *
 	 * @since  2.2.2
-	 * @param  CMB2_Field $field
+	 * @param  CMB2_Field $field Requested field type.
 	 * @return CMB2_Field_Display
 	 */
 	public static function get( CMB2_Field $field ) {
@@ -79,10 +79,12 @@ class CMB2_Field_Display {
 			case 'taxonomy_radio':
 			case 'taxonomy_radio_inline':
 			case 'taxonomy_select':
+			case 'taxonomy_radio_hierarchical':
 				$type = new CMB2_Display_Taxonomy_Radio( $field );
 				break;
 			case 'taxonomy_multicheck':
 			case 'taxonomy_multicheck_inline':
+			case 'taxonomy_multicheck_hierarchical':
 				$type = new CMB2_Display_Taxonomy_Multicheck( $field );
 				break;
 			case 'file':
@@ -97,7 +99,7 @@ class CMB2_Field_Display {
 			default:
 				$type = new self( $field );
 				break;
-		}
+		}// End switch.
 
 		return $type;
 	}
@@ -106,7 +108,7 @@ class CMB2_Field_Display {
 	 * Setup our class vars
 	 *
 	 * @since 2.2.2
-	 * @param CMB2_Field $field A CMB2 field object
+	 * @param CMB2_Field $field A CMB2 field object.
 	 */
 	public function __construct( CMB2_Field $field ) {
 		$this->field = $field;
@@ -120,10 +122,10 @@ class CMB2_Field_Display {
 	 * @since 2.2.2
 	 */
 	public function display() {
-		// If repeatable
+		// If repeatable.
 		if ( $this->field->args( 'repeatable' ) ) {
 
-			// And has a repeatable value
+			// And has a repeatable value.
 			if ( is_array( $this->field->value ) ) {
 
 				// Then loop and output.
@@ -405,7 +407,7 @@ class CMB2_Display_File extends CMB2_Field_Display {
 	}
 
 	protected function file_output( $url_value, $id, CMB2_Type_File_Base $field_type ) {
-		// If there is no ID saved yet, try to get it from the url
+		// If there is no ID saved yet, try to get it from the url.
 		if ( $url_value && ! $id ) {
 			$id = CMB2_Utils::image_id_from_url( esc_url_raw( $url_value ) );
 		}
@@ -414,7 +416,9 @@ class CMB2_Display_File extends CMB2_Field_Display {
 			$img_size = $this->field->args( 'preview_size' );
 
 			if ( $id ) {
-				$image = wp_get_attachment_image( $id, $img_size, null, array( 'class' => 'cmb-image-display' ) );
+				$image = wp_get_attachment_image( $id, $img_size, null, array(
+					'class' => 'cmb-image-display',
+				) );
 			} else {
 				$size = is_array( $img_size ) ? $img_size[0] : 200;
 				$image = '<img class="cmb-image-display" style="max-width: ' . absint( $size ) . 'px; width: 100%; height: auto;" src="' . $url_value . '" alt="" />';
@@ -471,7 +475,9 @@ class CMB2_Display_oEmbed extends CMB2_Field_Display {
 			'url'         => $this->value,
 			'object_id'   => $this->field->object_id,
 			'object_type' => $this->field->object_type,
-			'oembed_args' => array( 'width' => '300' ),
+			'oembed_args' => array(
+				'width' => '300',
+			),
 			'field_id'    => $this->field->id(),
 		) );
 	}

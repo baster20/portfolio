@@ -6,9 +6,9 @@
  *
  * @category  WordPress_Plugin
  * @package   CMB2
- * @author    WebDevStudios
+ * @author    CMB2 team
  * @license   GPL-2.0+
- * @link      http://webdevstudios.com
+ * @link      https://cmb2.io
  */
 class CMB2_Type_Text extends CMB2_Type_Base {
 
@@ -51,12 +51,8 @@ class CMB2_Type_Text extends CMB2_Type_Base {
 			'js_dependencies' => array(),
 		), $args );
 
-		if ( ! empty( $a['js_dependencies'] ) ) {
-			$this->field->add_js_dependencies( $a['js_dependencies'] );
-		}
-
 		return $this->rendered(
-			sprintf( '<input%s/>%s', $this->concat_attrs( $a, array( 'desc', 'js_dependencies' ) ), $a['desc'] )
+			sprintf( '<input%s/>%s', $this->concat_attrs( $a, array( 'desc' ) ), $a['desc'] )
 		);
 	}
 }

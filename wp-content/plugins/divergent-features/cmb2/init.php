@@ -4,22 +4,23 @@
  *
  * @category     WordPress_Plugin
  * @package      CMB2
- * @author       WebDevStudios
+ * @author       CMB2 team
  * @license      GPL-2.0+
- * @link         http://webdevstudios.com
+ * @link         https://cmb2.io
  *
  * Plugin Name:  CMB2
- * Plugin URI:   https://github.com/WebDevStudios/CMB2
+ * Plugin URI:   https://github.com/CMB2/CMB2
  * Description:  CMB2 will create metaboxes and forms with custom fields that will blow your mind.
- * Author:       WebDevStudios
- * Author URI:   http://webdevstudios.com
- * Contributors: WebDevStudios (@webdevstudios / webdevstudios.com)
- *               Justin Sternberg (@jtsternberg / dsgnwrks.pro)
+ * Author:       CMB2 team
+ * Author URI:   https://cmb2.io
+ * Contributors: Justin Sternberg (@jtsternberg / dsgnwrks.pro)
+ *               WebDevStudios (@webdevstudios / webdevstudios.com)
+ *               Human Made (@humanmadeltd / hmn.md)
  *               Jared Atchison (@jaredatch / jaredatchison.com)
  *               Bill Erickson (@billerickson / billerickson.net)
  *               Andrew Norcross (@norcross / andrewnorcross.com)
  *
- * Version:      2.2.4
+ * Version:      2.5.1
  *
  * Text Domain:  cmb2
  * Domain Path:  languages
@@ -29,7 +30,7 @@
  * http://www.opensource.org/licenses/gpl-license.php
  *
  * This is an add-on for WordPress
- * http://wordpress.org/
+ * https://wordpress.org/
  *
  * **********************************************************************
  * This program is free software; you can redistribute it and/or modify
@@ -52,7 +53,7 @@
  * ***********************************************************************
  */
 
-if ( ! class_exists( 'CMB2_Bootstrap_225_Trunk', false ) ) {
+if ( ! class_exists( 'CMB2_Bootstrap_251_Develop', false ) ) {
 
 	/**
 	 * Handles checking for and loading the newest version of CMB2
@@ -61,11 +62,11 @@ if ( ! class_exists( 'CMB2_Bootstrap_225_Trunk', false ) ) {
 	 *
 	 * @category  WordPress_Plugin
 	 * @package   CMB2
-	 * @author    WebDevStudios
+	 * @author    CMB2 team
 	 * @license   GPL-2.0+
-	 * @link      http://webdevstudios.com
+	 * @link      https://cmb2.io
 	 */
-	class CMB2_Bootstrap_225_Trunk {
+	class CMB2_Bootstrap_251_Develop {
 
 		/**
 		 * Current version number
@@ -73,7 +74,7 @@ if ( ! class_exists( 'CMB2_Bootstrap_225_Trunk', false ) ) {
 		 * @var   string
 		 * @since 1.0.0
 		 */
-		const VERSION = '2.2.4';
+		const VERSION = '2.5.1';
 
 		/**
 		 * Current version hook priority.
@@ -82,20 +83,20 @@ if ( ! class_exists( 'CMB2_Bootstrap_225_Trunk', false ) ) {
 		 * @var   int
 		 * @since 2.0.0
 		 */
-		const PRIORITY = 9977;
+		const PRIORITY = 9965;
 
 		/**
-		 * Single instance of the CMB2_Bootstrap_225_Trunk object
+		 * Single instance of the CMB2_Bootstrap_251_Develop object
 		 *
-		 * @var CMB2_Bootstrap_225_Trunk
+		 * @var CMB2_Bootstrap_251_Develop
 		 */
 		public static $single_instance = null;
 
 		/**
-		 * Creates/returns the single instance CMB2_Bootstrap_225_Trunk object
+		 * Creates/returns the single instance CMB2_Bootstrap_251_Develop object
 		 *
 		 * @since  2.0.0
-		 * @return CMB2_Bootstrap_225_Trunk Single instance object
+		 * @return CMB2_Bootstrap_251_Develop Single instance object
 		 */
 		public static function initiate() {
 			if ( null === self::$single_instance ) {
@@ -147,15 +148,15 @@ if ( ! class_exists( 'CMB2_Bootstrap_225_Trunk', false ) ) {
 			$this->l10ni18n();
 
 			// Include helper functions.
-			require_once 'includes/CMB2_Base.php';
-			require_once 'includes/CMB2.php';
-			require_once 'includes/helper-functions.php';
+			require_once CMB2_DIR . 'includes/CMB2_Base.php';
+			require_once CMB2_DIR . 'includes/CMB2.php';
+			require_once CMB2_DIR . 'includes/helper-functions.php';
 
 			// Now kick off the class autoloader.
 			spl_autoload_register( 'cmb2_autoload_classes' );
 
 			// Kick the whole thing off.
-			require_once 'bootstrap.php';
+			require_once( cmb2_dir( 'bootstrap.php' ) );
 			cmb2_bootstrap();
 		}
 
@@ -187,6 +188,6 @@ if ( ! class_exists( 'CMB2_Bootstrap_225_Trunk', false ) ) {
 	}
 
 	// Make it so...
-	CMB2_Bootstrap_225_Trunk::initiate();
+	CMB2_Bootstrap_251_Develop::initiate();
 
-}
+}// End if().
