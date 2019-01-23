@@ -48,7 +48,7 @@ $termid = $term->term_id;
     ?>
     <li data-filter-class='["gridall",<?php echo $filters; ?>]'>
     <?php } else { ?>
-    <li>    
+    <li data-filter-class='["gridall","gridall"]'>
     <?php } ?>
     <figure id="cvgridbox<?php echo esc_attr($looprandom); ?><?php the_ID(); ?>">
         <?php if ( has_post_thumbnail() ) { ?>
